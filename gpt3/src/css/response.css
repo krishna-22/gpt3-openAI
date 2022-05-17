@@ -1,0 +1,21 @@
+.list
+{
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+   align-items: center;
+}
+.item
+{
+   list-style-type: none;
+   border: 2px solid aqua;
+   background-color:lightgray;
+   font-size: small;
+   width: 50%;
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+}
+span{
+   color: blueviolet;
+}
